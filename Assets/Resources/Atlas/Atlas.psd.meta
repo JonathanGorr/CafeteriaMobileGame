@@ -1,0 +1,443 @@
+fileFormatVersion: 2
+guid: edb432d7b19473e48a8db63e8786235b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Table
+    21300002: Food
+    21300004: WindowMiddle
+    21300006: WindowEnd
+    21300008: Tray
+    21300010: Clock
+    21300012: MinuteHand
+    21300014: SecondHand
+    21300016: SpeechBubble
+    21300018: Counter
+    21300020: Person01
+    21300022: ShadowLeft
+    21300024: ShadowRight
+    21300026: Apple
+    21300028: Banana
+    21300030: Bread
+    21300032: Burger
+    21300034: Carrot
+    21300036: Cheese
+    21300038: Coconut
+    21300040: Orange
+    21300042: IceCream
+    21300044: Soda
+    21300046: Cookie
+    21300048: WaterMelon
+    21300050: Pepper
+    21300052: Onion
+    21300054: EggPlant
+    21300056: Fish01
+    21300058: Brocolli
+    21300060: Lettuce
+    21300062: Bananas
+    21300064: Tomatoes
+    21300066: Mushroom
+    21300068: Fish02
+    21300070: Cake
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Table
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 234
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Food
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 704
+        width: 100
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowMiddle
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 704
+        width: 60
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WindowEnd
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 704
+        width: 25
+        height: 320
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tray
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 255
+        height: 188
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Clock
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 973
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: MinuteHand
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 995
+        width: 2
+        height: 10
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SecondHand
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 995
+        width: 1
+        height: 15
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SpeechBubble
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 949
+        width: 146
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Counter
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 709
+        width: 226
+        height: 204
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Person01
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 122
+        height: 141
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShadowLeft
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 512
+        width: 65
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ShadowRight
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 512
+        width: 63
+        height: 119
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Apple
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Banana
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bread
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Burger
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Carrot
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cheese
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coconut
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 688
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Orange
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: IceCream
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Soda
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cookie
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 688
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WaterMelon
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 656
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pepper
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Onion
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EggPlant
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fish01
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brocolli
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 656
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Lettuce
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Bananas
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Tomatoes
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Mushroom
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fish02
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cake
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 624
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
